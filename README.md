@@ -23,5 +23,5 @@ STEPS:
     observation via 2 x T_dur + 1 hr. Exposure time per integration is calculated from the exposure time given for 1 integration for a 
     given readout pattern and groups/int. (Can also estimate number of integrations yourself from JDox, but I think this is easier.)
 4. Check data excess in APT. 5-15 GB is the "yellow zone". 
-5. Add inputs below and run .py file!
+5. Add required inputs into .py file and run!
 6. Outputs: plot of precision, median error bar size in SW and LW, and ascii file of error bars.  
