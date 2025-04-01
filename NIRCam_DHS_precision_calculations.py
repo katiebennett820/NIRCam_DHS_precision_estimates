@@ -22,7 +22,7 @@ but this assumes your observation will execute exactly as you planned..
 
 STEPS:
 
-1. Run ETC for desired subarray, readout pattern, and number of groups.
+1. Run ETC for desired subarray, readout pattern, and number of groups.  Make sure integrations per exposure = 1. 
 2. Download .tar files for short-wavelength (SW) and long-wavelength (LW) data. 
 3. Run APT file to check number of integrations total (n_ints = length of observation / exposure time per integration). Estimate length of 
     observation via 2 x T_dur + 1 hr. Exposure time per integration is calculated from the exposure time given for 1 integration for a 
