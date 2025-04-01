@@ -1,11 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import pandas as pd
-import math
-import matplotlib as mpl
-import spectres
 import sys
-from scipy import interpolate
 from astropy.io import ascii, fits
 
 '''
